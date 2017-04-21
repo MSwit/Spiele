@@ -1,0 +1,204 @@
+22851:8:response,21208:6:reason,2:OK,13:timestamp_end,17:1492623612.987057^12:http_version,8:HTTP/1.1,11:status_code,3:200#15:timestamp_start,17:1492623612.675209^7:headers,351:40:4:Date,29:Wed, 19 Apr 2017 17:40:12 GMT,]26:6:Server,13:Apache/2.4.20,]30:12:X-Powered-By,10:PHP/5.4.45,]129:4:Link,117:<http://www.perpetual-mobile.de/wp-json/>; rel="https://api.w.org/", <http://www.perpetual-mobile.de/>; rel=shortlink,]22:10:Connection,5:close,]31:17:Transfer-Encoding,7:chunked,]44:12:Content-Type,24:text/html; charset=UTF-8,]]7:content,20685:<!DOCTYPE html>
+<!--[if lte IE 9]><html class="no-js IE9 IE" lang="de-DE" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="de-DE" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+	<head>
+		<title>| Perpetual Mobile</title>
+
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			document.documentElement.className = document.documentElement.className.replace(new RegExp('(^|\\s)no-js(\\s|$)'), '$1js$2');
+			/* ]]> */
+		</script>
+
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+
+<!-- This site is optimized with the Yoast SEO plugin v4.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.perpetual-mobile.de/" />
+<meta property="og:locale" content="de_DE" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="| Perpetual Mobile" />
+<meta property="og:description" content="Wir lieben es, neue Produkte zu bauen und diese kontinuierlich weiter zu entwickeln. Es macht uns großen Spaß Anforderungen und Probleme zu verstehen, zu analysieren und mit einer praktikablen Lösung umzusetzen.  Die Freude am Programmieren, gute und vertrauensvolle Zusammenarbeit und ein ganzheitliches herangehen stehen bei uns im Vordergrund. Unser agiles Softwareentwicklerteam besteht aus sieben professionellen App-Entwicklern (Vollzeit, Festangestellt). In der Methodik &hellip;" />
+<meta property="og:url" content="http://www.perpetual-mobile.de/" />
+<meta property="og:site_name" content="Perpetual Mobile" />
+<meta property="og:image" content="http://www.perpetual-mobile.de/wp-content/uploads/2015/04/FH-Finnholz-9-3-1024x678.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Wir lieben es, neue Produkte zu bauen und diese kontinuierlich weiter zu entwickeln. Es macht uns großen Spaß Anforderungen und Probleme zu verstehen, zu analysieren und mit einer praktikablen Lösung umzusetzen.  Die Freude am Programmieren, gute und vertrauensvolle Zusammenarbeit und ein ganzheitliches herangehen stehen bei uns im Vordergrund. Unser agiles Softwareentwicklerteam besteht aus sieben professionellen App-Entwicklern (Vollzeit, Festangestellt). In der Methodik &hellip;" />
+<meta name="twitter:title" content="| Perpetual Mobile" />
+<meta name="twitter:image" content="http://www.perpetual-mobile.de/wp-content/uploads/2015/04/FH-Finnholz-9-3-1024x678.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.perpetual-mobile.de\/","name":"Perpetual Mobile GmbH","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.perpetual-mobile.de\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.perpetual-mobile.de\/","sameAs":[],"@id":"#organization","name":"Perpetual Mobile GmbH","logo":"http:\/\/www.perpetual-mobile.de\/wp-content\/uploads\/2015\/04\/logo.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Perpetual Mobile &raquo; Feed" href="http://www.perpetual-mobile.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Perpetual Mobile &raquo; Kommentar-Feed" href="http://www.perpetual-mobile.de/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.perpetual-mobile.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ttfmake-google-fonts-css'  href='//fonts.googleapis.com/css?family=PT+Sans+Narrow%3Aregular%2C700%7COpen+Sans%3Aregular%2Citalic%2C700&#038;subset=latin&#038;ver=1.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.perpetual-mobile.de/wp-content/themes/make/css/font-awesome.min.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ttfmake-parent-style-css'  href='http://www.perpetual-mobile.de/wp-content/themes/make/style.css?ver=1.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ttfmake-main-style-css'  href='http://www.perpetual-mobile.de/wp-content/themes/make-child-theme/style.css?ver=1.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ttfmake-print-style-css'  href='http://www.perpetual-mobile.de/wp-content/themes/make/css/print.css?ver=1.6.7' type='text/css' media='print' />
+<script type='text/javascript' src='http://www.perpetual-mobile.de/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.perpetual-mobile.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.perpetual-mobile.de/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.perpetual-mobile.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.perpetual-mobile.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel='shortlink' href='http://www.perpetual-mobile.de/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.perpetual-mobile.de/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.perpetual-mobile.de%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.perpetual-mobile.de/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.perpetual-mobile.de%2F&#038;format=xml" />
+
+<!-- Begin Make Custom CSS -->
+<style type="text/css" id="ttfmake-custom-css">
+#builder-section-1484887523029 .builder-banner-slide{padding-bottom:600px;}.site-header-main{background-image:url("http://wordpress.perpetual-mobile.de/wp-content/uploads/2015/04/dinpattern-stripe.gif");background-repeat:repeat;background-position:center;background-attachment:scroll;background-size:auto;background-color:rgba(0, 0, 0, 1);}.site-content{background-image:url("http://wordpress.perpetual-mobile.de/wp-content/uploads/2015/04/noise.png");background-repeat:repeat;background-position:left;background-attachment:scroll;background-size:auto;padding-bottom:0;}.color-primary-text,a,.entry-author-byline a.vcard,.entry-footer a:hover,.comment-form .required,ul.ttfmake-list-dot li:before,ol.ttfmake-list-dot li:before,.entry-comment-count a:hover,.comment-count-icon a:hover{color:#000000;}.color-primary-background,.ttfmake-button.color-primary-background{background-color:#000000;}.color-primary-border{border-color:#000000;}.color-secondary-text,.builder-section-banner .cycle-pager,.ttfmake-shortcode-slider .cycle-pager,.builder-section-banner .cycle-prev:before,.builder-section-banner .cycle-next:before,.ttfmake-shortcode-slider .cycle-prev:before,.ttfmake-shortcode-slider .cycle-next:before,.ttfmake-shortcode-slider .cycle-caption{color:#757575;}.color-secondary-background,blockquote.ttfmake-testimonial,tt,kbd,pre,code,samp,var,textarea,input[type="date"],input[type="datetime"],input[type="datetime-local"],input[type="email"],input[type="month"],input[type="number"],input[type="password"],input[type="search"],input[type="tel"],input[type="text"],input[type="time"],input[type="url"],input[type="week"],.ttfmake-button.color-secondary-background,button.color-secondary-background,input[type="button"].color-secondary-background,input[type="reset"].color-secondary-background,input[type="submit"].color-secondary-background,.sticky-post-label,.widget_tag_cloud a{background-color:#757575;}.color-secondary-border,table,table th,table td,.header-layout-3 .site-navigation .menu{border-color:#757575;}hr,hr.ttfmake-line-dashed,hr.ttfmake-line-double,blockquote.ttfmake-testimonial:after{border-top-color:#757575;}.comment-body,.post,.widget li{border-bottom-color:#757575;}.site-header,.site-title,.site-title a,.site-navigation .menu li a{color:#ffffff;}.blog .entry-header .entry-thumbnail{text-align:right;}.archive .entry-header .entry-thumbnail{text-align:right;}body,.font-body{font-family:"PT Sans Narrow","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:23px;font-size:2.3rem;}a{text-decoration:underline;font-weight:normal;}#comments{font-size:20px;font-size:2rem;}.comment-date{font-size:19px;font-size:1.9rem;}h1:not(.site-title),h1:not(.site-title) a,.font-header{font-size:40px;font-size:4rem;line-height:1.5;}.site-title,.site-title a,.font-site-title{font-family:"PT Sans Narrow","Helvetica Neue",Helvetica,Arial,sans-serif;}.site-description,.site-description a,.font-site-tagline{font-family:"PT Sans Narrow","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:22px;font-size:2.2rem;text-transform:none;}.site-navigation .menu li a,.font-nav{font-family:"PT Sans Narrow","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:20px;font-size:2rem;}.site-navigation .menu li.current_page_item > a,.site-navigation .menu .children li.current_page_item > a,.site-navigation .menu li.current-menu-item > a,.site-navigation .menu .sub-menu li.current-menu-item > a{font-weight:bold;}.sidebar .widget,.font-widget{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;font-size:1.3rem;font-weight:normal;font-style:normal;text-transform:none;line-height:1.6;letter-spacing:0px;word-spacing:0px;}.footer-widget-container .widget{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;font-size:1.3rem;font-weight:normal;font-style:normal;text-transform:none;line-height:1.6;letter-spacing:0px;word-spacing:0px;}.footer-text{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;font-size:1.3rem;font-weight:normal;font-style:normal;text-transform:none;line-height:1.6;letter-spacing:0px;word-spacing:0px;}
+@media screen and (min-width: 600px) and (max-width: 960px){#builder-section-1484887523029 .builder-banner-slide{padding-bottom:62.5%;}}
+@media screen and (min-width: 800px){.site-navigation ul.menu ul a:hover,.site-navigation ul.menu ul a:focus,.site-navigation .menu ul ul a:hover,.site-navigation .menu ul ul a:focus{background-color:#000000;}.site-navigation .menu .sub-menu,.site-navigation .menu .children{background-color:#757575;}.site-navigation .menu .page_item_has_children a:after,.site-navigation .menu .menu-item-has-children a:after{top:-2px;font-size:14px;font-size:1.4rem;}.site-navigation .menu .sub-menu li a,.site-navigation .menu .children li a{font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;font-size:1.3rem;font-weight:normal;font-style:normal;text-transform:none;line-height:1.4;letter-spacing:0px;word-spacing:0px;}.site-navigation .menu .children .page_item_has_children a:after,.site-navigation .menu .sub-menu .menu-item-has-children a:after{font-size:9px;font-size:0.9rem;}.site-navigation .menu li.current_page_item > a,.site-navigation .menu .children li.current_page_item > a,.site-navigation .menu li.current_page_ancestor > a,.site-navigation .menu li.current-menu-item > a,.site-navigation .menu .sub-menu li.current-menu-item > a,.site-navigation .menu li.current-menu-ancestor > a{font-weight:bold;}}
+</style>
+<!-- End Make Custom CSS -->
+		<link rel="pingback" href="http://www.perpetual-mobile.de/xmlrpc.php">
+	</head>
+
+	<body class="home page-template page-template-template-builder page-template-template-builder-php page page-id-181 boxed">
+		<div id="site-wrapper" class="site-wrapper">
+
+			
+<header id="site-header" class="site-header header-layout-1" role="banner">
+		<div class="site-header-main">
+		<div class="container">
+			<div class="site-branding">
+												<h1 class="site-title">
+					<a href="http://www.perpetual-mobile.de/" rel="home">Perpetual Mobile</a>
+				</h1>
+												<span class="site-description">
+					professionelle App-Entwicklung				</span>
+							</div>
+
+			<nav id="site-navigation" class="site-navigation" role="navigation">
+				<span class="menu-toggle">Menü</span>
+				<a class="skip-link screen-reader-text" href="#site-content">Zum Inhalt springen</a>
+				<div class="menu-hauptmenue-container"><ul id="menu-hauptmenue" class="menu"><li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="http://www.perpetual-mobile.de/team/">Team</a></li>
+<li id="menu-item-174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-174"><a href="http://www.perpetual-mobile.de/category/referenzen/">Referenzen</a></li>
+<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220"><a href="http://www.perpetual-mobile.de/kontakt/">Kontakt</a></li>
+</ul></div>			</nav>
+		</div>
+	</div>
+</header>
+			<div id="site-content" class="site-content">
+				<div class="container">
+<main id="site-main" class="site-main" role="main">
+
+			
+<article id="post-181" class="post-181 page type-page status-publish hentry">
+		<header class="entry-header">
+		<div class="entry-meta">
+
+</div>
+<div class="entry-meta">
+</div>	</header>
+	
+	<div class="entry-content">
+				
+<section id="builder-section-1428651440150" class="builder-section builder-section-first builder-section-text builder-section-next-banner builder-text-columns-1" style="">
+		<div class="builder-section-content">
+				<div class="builder-text-column builder-text-column-1" id="builder-section-1428651440150-column-1">
+									<figure class="builder-text-image">
+				<img width="1024" height="678" src="http://www.perpetual-mobile.de/wp-content/uploads/2015/04/FH-Finnholz-9-3-1024x678.jpg" class="attachment-large size-large" alt="FH-Finnholz-9-3" srcset="http://www.perpetual-mobile.de/wp-content/uploads/2015/04/FH-Finnholz-9-3-300x199.jpg 300w, http://www.perpetual-mobile.de/wp-content/uploads/2015/04/FH-Finnholz-9-3-768x509.jpg 768w, http://www.perpetual-mobile.de/wp-content/uploads/2015/04/FH-Finnholz-9-3-1024x678.jpg 1024w" sizes="(max-width: 1024px) 100vw, 1024px" />			</figure>
+												<div class="builder-text-content">
+				<p>Wir lieben es, neue Produkte zu bauen und diese kontinuierlich weiter zu entwickeln. Es macht uns großen Spaß Anforderungen und Probleme zu verstehen, zu analysieren und mit einer praktikablen Lösung umzusetzen.  Die Freude am Programmieren, gute und vertrauensvolle Zusammenarbeit und ein ganzheitliches herangehen stehen bei uns im Vordergrund.</p>
+<p>Unser agiles Softwareentwicklerteam besteht aus sieben professionellen App-Entwicklern (Vollzeit, Festangestellt). In der Methodik und Arbeitsweise orientieren wir uns stark an Extreme Programming. Prozesse halten wir mit Kanban übersichtlich, flexibel und schlank. Je nach Kundenwunsch organisieren wir ein Projekt aber auch gerne gemäß Scrum bzw. Scrum-artig.</p>
+<h3>Unsere Leistungen</h3>
+<ul>
+<li>Native App-Entwicklung für iOS, Android und Windows Phone</li>
+<li>Falls gewünscht, Code-Sharing aller nicht-UI Komponenten durch den Einsatz der <a href="http://xamarin.com/">Xamarin Entwicklungswerkzeuge</a> (weniger als 60% der Kosten unter Beibehaltung der nativen UI-Experience auf allen Plattformen)</li>
+<li>Langjährige Erfahrung bei der Umsetzung einfacher und komplexer Apps (professionelle Android-Entwicklung seit Anfang 2009; vgl. <a href="category/referenzen/">Referenzen</a>)</li>
+<li>Umfassende Beratung bei der Konzeption sowie Abwägung technischer Möglichkeiten im Hinblick auf die Benutzungsfreundlichkeit, Kosten, etc.</li>
+<li>Offen für kurzfristige und/oder eilige Projekte</li>
+<li>Angebote auf Stundenbasis oder als Festpreis möglich; das Leistungspaket lässt sich individuell abstimmen (Entwicklung, Projektleitung, Team-Management, Gestaltung, etc.)</li>
+</ul>
+			</div>
+					</div>
+			</div>
+	</section>
+
+<section id="builder-section-1484887523029" class="builder-section  builder-section-prev-text builder-section-banner builder-section-last" style="">
+		<div class="builder-section-content">
+				<div class="builder-banner-slide content-position-none" style="background-image: url(&#039;http://www.perpetual-mobile.de/wp-content/uploads/2015/04/FH-Finnholz-9-8.jpg&#039;);">
+			<div class="builder-banner-content">
+				<div class="builder-banner-inner-content">
+									</div>
+			</div>
+					</div>
+							</div>
+	</section>
+			</div>
+
+		<footer class="entry-footer">
+		<div class="entry-meta">
+
+</div>	</footer>
+	</article>
+		
+	
+</main>
+
+
+				</div>
+			</div>
+
+			
+<footer id="site-footer" class="site-footer footer-layout-1" role="contentinfo">
+	<div class="container">
+				<div class="footer-widget-container columns-1">
+			<section id="footer-1" class="widget-area footer-1 active" role="complementary">
+	<aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-submenue-container"><ul id="menu-submenue" class="menu"><li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="http://www.perpetual-mobile.de/kontakt/">Kontakt</a></li>
+<li id="menu-item-270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-270"><a href="http://www.perpetual-mobile.de/impressum/">Impressum</a></li>
+</ul></div></aside></section>		</div>
+		
+		
+
+<div class="site-info">
+	<span class="theme-name">Make: A WordPress template</span>
+	<span class="theme-by">by</span>
+	<span class="theme-author">
+		<a title="The Theme Foundry Startseite" href="https://thethemefoundry.com/">
+			The Theme Foundry
+		</a>
+	</span>
+</div>
+
+			</div>
+</footer>		</div>
+
+		<script type='text/javascript' src='http://www.perpetual-mobile.de/wp-content/themes/make/js/libs/cycle2/jquery.cycle2.min.js?ver=1.6.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ttfmakeGlobal = {"fitvids":{"selectors":"iframe[src*='www.viddler.com'],iframe[src*='money.cnn.com'],iframe[src*='www.educreations.com'],iframe[src*='\/\/blip.tv'],iframe[src*='\/\/embed.ted.com'],iframe[src*='\/\/www.hulu.com']"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.perpetual-mobile.de/wp-content/themes/make/js/global.min.js?ver=1.6.7'></script>
+<script type='text/javascript' src='http://www.perpetual-mobile.de/wp-content/themes/make/inc/formatting/dynamic-stylesheet/dynamic-stylesheet.js?ver=1.6.7'></script>
+<script type='text/javascript' src='http://www.perpetual-mobile.de/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+
+	</body>
+</html>,}4:type,4:http,2:id,36:e0f1eb97-e14f-4aad-a50c-ccac86bd4ee4,5:error,0:~7:version,9:1:0#2:17#]11:client_conn,215:15:ssl_established,5:false!10:clientcert,0:~13:timestamp_end,17:1492623612.991473^7:address,53:7:address,20:9:127.0.0.1,5:49563#]8:use_ipv6,5:false!}15:timestamp_start,17:1492623612.080723^19:timestamp_ssl_setup,0:~}11:server_conn,432:15:ssl_established,5:false!14:source_address,53:7:address,20:9:127.0.0.1,5:49574#]8:use_ipv6,5:false!}13:timestamp_end,17:1492623612.991119^12:peer_address,56:7:address,23:14:185.21.102.204,2:80#]8:use_ipv6,5:false!}7:address,65:7:address,32:23:www.perpetual-mobile.de,2:80#]8:use_ipv6,5:false!}15:timestamp_start,16:1492623612.13888^3:sni,0:~4:cert,0:~19:timestamp_ssl_setup,0:~3:via,0:~19:timestamp_tcp_setup,17:1492623612.142593^}11:intercepted,5:false!7:request,808:9:is_replay,5:false!4:port,2:80#12:stickycookie,5:false!13:timestamp_end,16:1492623612.11693^4:path,1:/,15:timestamp_start,17:1492623612.113855^7:headers,490:34:4:Host,23:www.perpetual-mobile.de,]34:16:Proxy-Connection,10:keep-alive,]29:13:Cache-Control,9:max-age=0,]33:25:Upgrade-Insecure-Requests,1:1,]140:10:User-Agent,121:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36,]87:6:Accept,74:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8,]42:15:Accept-Encoding,19:gzip, deflate, sdch,]58:15:Accept-Language,35:de-DE,de;q=0.8,en-US;q=0.6,en;q=0.4,]]7:content,0:,6:method,3:GET,4:host,23:www.perpetual-mobile.de,17:first_line_format,8:relative,12:http_version,8:HTTP/1.1,6:scheme,4:http,10:stickyauth,5:false!}}
