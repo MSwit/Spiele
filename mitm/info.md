@@ -4,10 +4,11 @@ sudo sysctl net.inet.ip.forwarding=1
 
 # starten
 sudo pfctl -evf pf.conf
+sudo pfctl -evfa pf.conf
 
 #stoppen
 sudo pfctl -F all -f /etc/pf.conf
-
+# Once the configuration is clear, you can run pfctl -q to turn on quiet mode to make things faster.
 
 # ipforwarding
 sudo sysctl -w net.inet.ip.forwarding=1
