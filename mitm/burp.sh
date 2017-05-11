@@ -1,2 +1,2 @@
 sudo pfctl -f burp.conf
-mitmproxy -T --host --insecure --cert *=cert.pem
+mitmproxy -T --host --insecure --cert *=cert.pem -s writeOpponents.py
